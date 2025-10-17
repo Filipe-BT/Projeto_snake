@@ -1,0 +1,2 @@
+Olá tudo bem?
+Esse é um projeto com um instuito da sua diversão, a partir desse projeto você poderá jogar o famoso jogo da cobrinha, que já foi muito popular nos primordios da invenção dos smartphones,
